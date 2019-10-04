@@ -3,3 +3,5 @@
 #bitch we breaking shit
 
 # now we fixing it 
+
+#why must we make conflicts tho?
