@@ -1,1 +1,1 @@
-# multimedia_authoring_labreview
+# Lab Review for Multimedia Authoring Class
